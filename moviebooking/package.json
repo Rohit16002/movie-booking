@@ -19,8 +19,6 @@
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-horizontal-datepicker": "^2.0.3",
-    "react-horizontal-strip-datepicker": "^3.0.2",
     "react-icons": "^4.11.0",
     "react-select": "^5.7.4",
     "react-toastify": "^9.1.3",

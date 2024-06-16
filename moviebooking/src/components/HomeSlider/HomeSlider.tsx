@@ -29,12 +29,6 @@ const HomeSlider = () => {
 
     const banners = [
         {
-            imgUrl: 'https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/page/banners/banners-banner-irx8ynjlb1.jpeg'
-        },
-        {
-            imgUrl: 'https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/page/banners/banners-banner-erg7iu8bgc7.jpeg'
-        },
-        {
             imgUrl: 'https://assets-in.bmscdn.com/promotions/cms/creatives/1693561351496_motogpsepdesktop.jpg'
         },
         {
