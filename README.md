@@ -1,4 +1,3 @@
-﻿# movie-booking
 # Project Description:
 Full Stack Movie Booking App is an advanced project that demonstrates the development of a robust and scalable online movie booking platform. It covers all the necessary steps and technologies required for building an efficient movie booking system using the MERN (MongoDB, Express, React, Node.js) stack.
 
